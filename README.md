@@ -84,27 +84,23 @@ I enjoy building real-world applications, improving my programming skills, and c
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd1711&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd1711&theme=github_dark" />
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd1711&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd1711&theme=github_dark" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd1711&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd1711&theme=github_dark" width="49%" />
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd1711&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd1711&theme=github_dark" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd1711&theme=tokyonight&utcOffset=5.5" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd1711&theme=github_dark&utcOffset=5.5" width="49%" />
 
 </div>
 
