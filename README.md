@@ -80,28 +80,31 @@ I enjoy building real-world applications, improving my programming skills, and c
 ---
 ---
 
-# 📊 Developer Metrics
+#📊 Developer Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd1711&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidd1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd1711&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidd1711&theme=github_dark" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidd1711&theme=github_dark" width="49%" />
+<img src="https://streak-stats.demolab.com?user=sidd1711&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidd1711&theme=github_dark" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidd1711&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd1711&theme=github_dark&utcOffset=5.5" width="49%" />
-
+</div>
 </div>
 
 ---
